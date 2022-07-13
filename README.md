@@ -2,7 +2,7 @@
 
 This is a simple React Native App to validate a Form with credit card fields.
 
-The project is using [Typescript](https://reactnative.dev/docs/typescript) as the main language, [React Native Material]() for Design UI, [Formik](https://formik.org/docs/guides/react-native) to handle the form fields Props, [react-native-mask-text](https://github.com/akinncar/react-native-mask-text) to handle the expiration date mask, and [Jest](https://jestjs.io/) for Unit Tests.
+The project is using [Typescript](https://reactnative.dev/docs/typescript) as the main language, [React Native Material](https://www.react-native-material.com/) for Design UI, [Formik](https://formik.org/docs/guides/react-native) to handle the form fields Props, [react-native-mask-text](https://github.com/akinncar/react-native-mask-text) to handle the expiration date mask, and [Jest](https://jestjs.io/) for Unit Tests.
 
 Running the App
 ---------------
