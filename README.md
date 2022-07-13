@@ -8,7 +8,8 @@ Running the App
 ---------------
 1. Make sure you have your environment [setup](https://reactnative.dev/docs/environment-setup) properly to be able to run the application.
 2. Clone the app and inside the app folder run on the terminal: ```npm install``` or ```yarn```
-3. To run the app on an emulator or a device run on terminal:
+3. Open the ios folder inside the root folder of the app and run on terminal: ```pod install``` (iOS only)
+4. To run the app on an emulator or a device run on terminal:
 ### Android (Emulator or Device)
 ```npm run android``` or ```yarn android```
 
@@ -19,4 +20,4 @@ Running the App
 
 To run the app on an iPhone device you may need additional [configuration](https://reactnative.dev/docs/running-on-device).
 
-4. To run the unit tests run on terminal: ```npm test``` or ```yarn test```
+5. To run the unit tests run on terminal: ```npm test``` or ```yarn test```
